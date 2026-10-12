@@ -10,7 +10,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
     body {
       font-family: 'Plus Jakarta Sans', sans-serif;
-      background-color: #000000;
+      background-color: #e3e3e3;
       color: #1e293b;
     }
     .badge-kl { background-color: #ea580c; color: white; }
