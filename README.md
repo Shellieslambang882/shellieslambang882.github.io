@@ -1,4 +1,3 @@
-<html lang="en">
 <head>
   <meta name="robots" content="noindex, nofollow">
   <meta charset="UTF-8">
@@ -507,8 +506,17 @@
         </ul>
       </div>
 
-    </div>
 
+
+    </div>
+<!-- Visual Itinerary Image -->
+      <div style="text-align: center; margin: 20px 0;">
+      <img 
+        src="https://michaelatetoomuch.github.io/japan.jpg" 
+        alt="Japan Itinerary Map" 
+        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);"
+      >
+</div>
   </main>
 
   <script>
@@ -547,4 +555,3 @@
     }
   </script>
 </body>
-</html>
